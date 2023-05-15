@@ -5,7 +5,7 @@
 Some experiments can be found in this [Gigue fork](https://github.com/pcotret/gigue):
 
 ```bash
- python test_instruction_rimi.py 
+$ python test_instruction_rimi.py 
 Decoding instruction lb1
 Type I
 ['?' '?' '?' '?' '?' '?' '?' '?' '?' '?' '?' '?' '?' '?' '?' '?' '?' '0' '0' '0' '?' '?' '?' '?' '?' '0' '0' '1' '1' '1' '1' '1']
